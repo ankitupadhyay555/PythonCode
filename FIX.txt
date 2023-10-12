@@ -1,0 +1,9 @@
+#Update python version on mac.
+
+1. find the python installed location- 
+    python3 --version
+    python3 location
+    ls -l <path>/python*
+    drew install python3 ## Install updated python or mention the version for specific version prefernce.
+    
+2. 
